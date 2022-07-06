@@ -228,3 +228,18 @@ button{
 .actions{
   cursor: pointer;
 }
+@media screen and (max-width:500px) {
+  .stickyNotes{
+    margin:2em;
+    width:70%;
+    height: 16em;
+    text-align: center;
+    color:#000;
+    background:#ffc;
+    display:block;
+    padding:1em;
+    box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+    transform: rotate(-6deg);
+  }
+  
+}
