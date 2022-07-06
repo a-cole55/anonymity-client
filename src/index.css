@@ -237,5 +237,23 @@ button{
     width:70%;
     height: 16em;
   }
-  
+  .addPost{
+    width:25em;
+    height: 20em;
+    margin:1%;
+    padding:5%;
+
+  }
+  .modalContainer {
+    width:460px;
+    height: 600px;
+    border-radius: 12px;
+    background-color: #ffc;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+  }
+
 }
