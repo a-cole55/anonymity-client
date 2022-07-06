@@ -167,6 +167,7 @@ button{
   background-color:#9cffcf;
   font: bold 1.2rem 'Lato';
   text-transform: uppercase;
+  color:black;
 }
 
 .modalBG{
@@ -227,6 +228,7 @@ button{
   background-color:#9cffcf;
   font: 1.3rem 'Reenie Beanie';
   font-weight: bold;
+  color: black;
 }
 .actions{
   cursor: pointer;
